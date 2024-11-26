@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack.
 - 🌱 I’m currently learning Frontend.
 - 📫 How to reach me email:sameeraly2003@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
