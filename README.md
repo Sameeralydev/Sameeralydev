@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/ayein_begun" target="blank"><img src="https://img.shields.io/twitter/follow/ayein_begun?logo=twitter&style=for-the-badge" alt="ayein_begun" /></a> </p>
 
-- 🔭 I’m currently working on [AliBaba.com Clone](http://127.0.0.1:5500/homepage.html`)
+- 🔭 I’m currently working on [React.js & Vite)
 
-- 🌱 I’m currently learning **Frontend (HTML,CSS,Bootstrap)**
+- 🌱 I’m currently learning **Frontend (Vite + React.js)**
 
 - 👀 I’m interested in **FullStack Web development.**
 
 - 😄 Pronouns: [he/him](he/him)
 
-- 💬 Ask me about **HTML,CSS,Bootsrap,Figma**
+- 💬 Ask me about **HTML,CSS,Bootsrap,Figma,Javascript,Tailwind,**
 
 - 📫 How to reach me **sameeraly2003@gmail.com**
 
