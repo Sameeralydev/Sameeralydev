@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayein_begun" target="blank"><img src="https://img.shields.io/twitter/follow/ayein_begun?logo=twitter&style=for-the-badge" alt="ayein_begun" /></a> </p>
 
-- 🔭 I’m currently working on [React.js & Vite)
+- 🔭 I’m currently working on (**React.js & Vite*)
 
 - 🌱 I’m currently learning **Frontend (Vite + React.js)**
 
